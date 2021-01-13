@@ -1,0 +1,32 @@
+.card-border{
+    border: none;
+}
+.card-border-footer{
+    background-color: white;
+    border: none;
+}
+.img-modify img{
+    width: 100px;
+    
+}
+.slide-bg .carousel-item{
+    background-color: #fceae8;
+    border-radius: 0.8em;
+}
+.bg-color{
+    background-color:#fceae8; 
+    
+}
+.purple{
+    background-color:#da70d6;
+}
+.btn-modify{
+    display: block;
+    border-radius: 5px;
+    color: white;
+    width: 120px;
+    height: 40px;
+    background-color: #ff2178;
+    border: none;
+}
+
